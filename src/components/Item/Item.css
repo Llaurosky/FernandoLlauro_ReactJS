@@ -1,0 +1,10 @@
+.CardItem{
+    text-align: center;
+    height: 40%;
+    background-color: rgb(40, 81, 41);
+    padding: 25px;
+    margin: 5px;
+    color:white;
+    font-size:20px;
+    width: 80%;      
+}

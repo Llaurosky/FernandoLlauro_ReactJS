@@ -1,0 +1,8 @@
+.ListGroup{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(214, 103, 199);
+    margin: 4px;
+    align-items: center;
+    align-content: center;
+}
